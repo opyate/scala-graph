@@ -1,0 +1,6 @@
+.idea/
+.idea_modules/
+.svn/
+target/
+project/boot
+project/target
